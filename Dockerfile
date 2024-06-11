@@ -31,4 +31,4 @@ RUN apk update && \
     python3
 
 # Start the application
-CMD ["npm", "run", "prod"]
+CMD ["npm","start"]
